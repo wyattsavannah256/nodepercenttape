@@ -1,0 +1,12 @@
+{
+  "name": "status-checker-1eb73b",
+  "version": "1.0.0",
+  "description": "A status-checker utility",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "dev": "node --watch index.js"
+  },
+  "keywords": ["status-checker", "utility"],
+  "license": "MIT"
+}
